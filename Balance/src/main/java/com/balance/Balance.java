@@ -1,3 +1,4 @@
+package com.balance;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;
@@ -5,6 +6,10 @@ import java.util.Map;
 import java.util.Random;
 import java.util.Set;
 
+/**常见的均衡算法test（轮询、随机、hash、加权轮询、加权随机）
+ * @author zhongyi
+ *
+ */
 public class Balance {
 	public static Map<String,Integer> serverWeigthMap=new HashMap<String,Integer>();
 	public static Integer pos=0;
@@ -122,4 +127,17 @@ public class Balance {
 		Random r= new Random();
 		return serverList.get(r.nextInt(serverList.size()));
 	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 }
