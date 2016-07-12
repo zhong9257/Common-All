@@ -8,5 +8,6 @@
   <modules>
   	<module>Balance</module>
   	<module>ConnectionPool</module>
+  	<module>Security</module>
   </modules>
 </project>
