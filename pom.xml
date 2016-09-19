@@ -9,5 +9,7 @@
   	<module>Balance</module>
   	<module>ConnectionPool</module>
   	<module>Security</module>
+  	<module>Cache</module>
+  	<module>Proxy</module>
   </modules>
 </project>
