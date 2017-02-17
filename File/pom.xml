@@ -5,6 +5,10 @@
     <artifactId>Componet-All</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Balance</artifactId>
-  <name>Balance</name>
+  <artifactId>File</artifactId>
+  <packaging>pom</packaging>
+  <modules>
+  	<module>FileLock</module>
+  	<module>FileDigest</module>
+  </modules>
 </project>

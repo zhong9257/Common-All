@@ -2,9 +2,8 @@
   <modelVersion>4.0.0</modelVersion>
   <parent>
     <groupId>com.me.componet</groupId>
-    <artifactId>Componet-All</artifactId>
+    <artifactId>File</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>Balance</artifactId>
-  <name>Balance</name>
+  <artifactId>FileLock</artifactId>
 </project>
